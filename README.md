@@ -28,10 +28,12 @@ https://github.com/user-attachments/assets/cc4c371c-b859-401e-91bb-6a60fd606027
 
 
 #### Code 
-[Maui WorldCover Cropland](https://code.earthengine.google.com/3011ed7ede4648c034a0b2ffa66cd974)
-
-
-
+[Maui Worldcover Cropland](https://code.earthengine.google.com/3011ed7ede4648c034a0b2ffa66cd974)
+[Maui Visualizing All Crops](https://code.earthengine.google.com/f7ee77b8c20a9271662f394956b54b4c)
+[Maui Worldcover Cropland Accuracy](https://code.earthengine.google.com/5cf60f0607a751c6a272df9b47300ab7)
+[Maui Sentinel2](https://code.earthengine.google.com/dd7025cdb5a70890afc384df75172fd8)
+[Maui Sentintel Classification](https://code.earthengine.google.com/5b0e9d62e5287e43c52de66f8cd4025e)
+[Maui Classification with Corrective Points](https://code.earthengine.google.com/58fae2368df4c99114dcb9c143f15406)
 
 
 
