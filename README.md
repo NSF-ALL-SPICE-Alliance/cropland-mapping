@@ -27,6 +27,10 @@ https://github.com/user-attachments/assets/cc4c371c-b859-401e-91bb-6a60fd606027
 
 
 
+#### Code 
+[Maui WorldCover Cropland](https://code.earthengine.google.com/3011ed7ede4648c034a0b2ffa66cd974)
+
+
 
 
 
